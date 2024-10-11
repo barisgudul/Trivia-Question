@@ -7,10 +7,7 @@ A Python-based interactive quiz application that presents multiple-choice questi
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
